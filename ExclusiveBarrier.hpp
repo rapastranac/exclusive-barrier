@@ -4,10 +4,11 @@
 #include "boost/fiber/barrier.hpp"
 
 #include <atomic>
-#include <chrono>
-#include <iostream>
 #include <condition_variable>
 #include <thread>
+
+// Copyright 2020
+// Author: rapastranac
 
 class ExclusiveBarrier
 {
