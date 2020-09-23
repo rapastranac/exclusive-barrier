@@ -15,4 +15,4 @@ that’s how the a general barrier will allow to pass master thread and one dono
 
 Here is an ilustration:
 
-`<https://github.com/rapastranac/exclusive-barrier/blob/master/ExclusiveBarrier.png?raw=true>`
+![Image1](https://github.com/rapastranac/exclusive-barrier/blob/master/ExclusiveBarrier.png?raw=true)
