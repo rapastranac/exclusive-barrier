@@ -18,9 +18,8 @@ public:
 	}
 
 	void wait_donor() {
-		mtx.lock();
+		std::unique_lock<std::mutex> lck(mtx);
 		bar->wait();
-		mtx.unlock();
 	}
 
 	void wait_master() {
