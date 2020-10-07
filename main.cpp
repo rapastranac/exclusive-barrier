@@ -11,13 +11,13 @@ std::vector<std::unique_ptr<std::thread>> threads;
 
 void foo(int id) {
 	printf("Thread %d entered foo \n", id);
-	barrier.wait_slave();
+	barrier.wait_donor();
 	printf("Thread %d passed barrier\n", id);
 }
 
 void bar() {
 	for(int i = 0;i<SIZE;i++){
-		barrier.wait_donor();
+		barrier.wait_master();
 	}
 }
 
