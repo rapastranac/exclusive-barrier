@@ -17,7 +17,7 @@ void foo(int id) {
 
 void bar() {
 	for(int i = 0;i<SIZE;i++){
-		barrier.wait_master();
+		barrier.wait_donor();
 	}
 }
 
