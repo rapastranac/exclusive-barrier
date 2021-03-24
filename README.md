@@ -13,6 +13,14 @@ For this example, I am using boost as a barrier to assist the synchronisation, b
 implementation should work as well. The general instance of a barrier has a size of two,
 that’s how the a general barrier will allow to pass master thread and one donor thread.
 
+## Analogy
+
+![Image1](https://www.florenceinferno.com/wp-content/uploads/2013/10/Charon-Dore.jpg)
+
+Imagine a boatman (ie. Charon), Charon will pass sould from side A of the river to side B (underworld), but the boat has capacity for only two passengers. Charon will have to pass one soul at a time, and since nobody leaves the underworld, charon will come to side B alone to carry another sould, and so on and so forth.
+
+
+
 Here is an ilustration:
 
-![Image1](https://github.com/rapastranac/exclusive-barrier/blob/master/ExclusiveBarrier.png?raw=true)
+![Image2](https://github.com/rapastranac/exclusive-barrier/blob/master/ExclusiveBarrier.png?raw=true)
