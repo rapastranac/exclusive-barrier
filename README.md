@@ -17,7 +17,7 @@ that’s how the a general barrier will allow to pass master thread and one dono
 
 ![Image1](https://www.florenceinferno.com/wp-content/uploads/2013/10/Charon-Dore.jpg)
 
-Imagine a boatman (ie. Charon), Charon will pass sould from side A of the river to side B (underworld), but the boat has capacity for only two passengers. Charon will have to pass one soul at a time, and since nobody leaves the underworld, charon will come to side B alone to carry another sould, and so on and so forth.
+Imagine a boatman (ie. Charon), Charon will pass a soul from side A of the river to side B (underworld), but the boat has capacity for only two passengers. Charon will have to carry one soul at a time, and since nobody leaves the underworld, charon will come to side B alone to carry another soul, and so on and so forth.
 
 
 
